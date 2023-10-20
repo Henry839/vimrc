@@ -1,0 +1,2052 @@
+# 这个 viminfo 文件是由 Vim 9.0 生成的。
+# 如果要自行修改请特别小心！
+
+# Viminfo version
+|1,4
+
+# 此文件建立时 'encoding' 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最后 搜索模式:
+~MSle0~/terminal
+
+# 最后 替换 搜索模式:
+~MSle0&old
+
+# 最近的替换字符串:
+$
+
+# 命令行 历史记录 (从新到旧):
+:q
+|2,0,1697811109,,"q"
+:q!
+|2,0,1697811085,,"q!"
+:wq
+|2,0,1697811081,,"wq"
+:qall
+|2,0,1697810771,,"qall"
+:w
+|2,0,1697810587,,"w"
+:Q1
+|2,0,1697810482,,"Q1"
+:qal
+|2,0,1697810432,,"qal"
+:AsyncRun -raw -cwd=$(VIM_FILEDIR) python "$(VIM_FILEPATH)"
+|2,0,1697810428,,"AsyncRun -raw -cwd=$(VIM_FILEDIR) python \"$(VIM_FILEPATH)\""
+:help filetype
+|2,0,1697809466,,"help filetype"
+:AsyncRun -cwd=$(VIM_FILEDIR) python "$(VIM_FILEPATH)" -raw
+|2,0,1697809053,,"AsyncRun -cwd=$(VIM_FILEDIR) python \"$(VIM_FILEPATH)\" -raw"
+:AsyncRun -cwd=$(VIM_FILEDIR) -raw python "$(VIM_FILEPATH)" 
+|2,0,1697809017,,"AsyncRun -cwd=$(VIM_FILEDIR) -raw python \"$(VIM_FILEPATH)\" "
+:let $PYTHONUNBUFFERED=1
+|2,0,1697809003,,"let $PYTHONUNBUFFERED=1"
+:AsyncRun -cwd=$(VIM_FILEDIR) python "$(VIM_FILEPATH)"
+|2,0,1697808926,,"AsyncRun -cwd=$(VIM_FILEDIR) python \"$(VIM_FILEPATH)\""
+:PlugInstall
+|2,0,1697807224,,"PlugInstall"
+:PlugUpdate
+|2,0,1697807071,,"PlugUpdate"
+:sp helloworld.h
+|2,0,1697797364,,"sp helloworld.h"
+:vs helloworld.cpp
+|2,0,1697797348,,"vs helloworld.cpp"
+:sp helloworld.cpp
+|2,0,1697797308,,"sp helloworld.cpp"
+:vs helloworld.h
+|2,0,1697797300,,"vs helloworld.h"
+:vs main.cpp
+|2,0,1697797136,,"vs main.cpp"
+:help run
+|2,0,1697796714,,"help run"
+:run
+|2,0,1697796708,,"run"
+:qall!
+|2,0,1697796603,,"qall!"
+:b 1
+|2,0,1697796591,,"b 1"
+:ls
+|2,0,1697796586,,"ls"
+:b 4
+|2,0,1697796559,,"b 4"
+:b r
+|2,0,1697796557,,"b r"
+:terminal
+|2,0,1697796333,,"terminal"
+:;w
+|2,0,1697796056,,";w"
+:make helloworld.cpp
+|2,0,1697795438,,"make helloworld.cpp"
+:make
+|2,0,1697795433,,"make"
+:CocInstall
+|2,0,1697795329,,"CocInstall"
+:q1
+|2,0,1697795018,,"q1"
+:CocInstall coc-clangd
+|2,0,1697793582,,"CocInstall coc-clangd"
+:CocConfig
+|2,0,1697793571,,"CocConfig"
+:vs ../
+|2,0,1697684217,,"vs ../"
+:vs impose.py
+|2,0,1697620742,,"vs impose.py"
+:"q
+|2,0,1697615407,,"\"q"
+:qq
+|2,0,1697613712,,"qq"
+:vs julesz.py
+|2,0,1697335599,,"vs julesz.py"
+:vs gibbs.py
+|2,0,1697335444,,"vs gibbs.py"
+:sp ../run_autograder
+|2,0,1696843437,,"sp ../run_autograder"
+:sp ../proj2_sol/part1_julesz/julesz.py
+|2,0,1696843215,,"sp ../proj2_sol/part1_julesz/julesz.py"
+:'<,'>q
+|2,0,1696669548,,"'<,'>q"
+:vs gibbs.pyx
+|2,0,1696668421,,"vs gibbs.pyx"
+:wwq
+|2,0,1696602502,,"wwq"
+:sp gibbs.pyx
+|2,0,1696602292,,"sp gibbs.pyx"
+:eq
+|2,0,1696509724,,"eq"
+:sp gibbs.py
+|2,0,1696471098,,"sp gibbs.py"
+:vs gibbs.c
+|2,0,1696471030,,"vs gibbs.c"
+
+# 查找字符串 历史记录 (从新到旧):
+?/terminal
+|2,1,1697811060,47,"terminal"
+?/cpp
+|2,1,1697810568,47,"cpp"
+?/au
+|2,1,1697810302,47,"au"
+?/plug
+|2,1,1697807200,47,"plug"
+?/termina
+|2,1,1697795680,47,"termina"
+?/indent
+|2,1,1697795025,47,"indent"
+?/name
+|2,1,1697690099,47,"name"
+?/size
+|2,1,1697690059,47,"size"
+?/norm
+|2,1,1697689649,47,"norm"
+?/big
+|2,1,1697685472,47,"big"
+?/read
+|2,1,1697684220,47,"read"
+?/stone
+|2,1,1697683872,47,"stone"
+?/small
+|2,1,1697683801,47,"small"
+?/distorted
+|2,1,1697682389,47,"distorted"
+?/sce
+|2,1,1697682212,47,"sce"
+?/steon
+|2,1,1697682015,47,"steon"
+?/loss
+|2,1,1697639028,47,"loss"
+?/conv
+|2,1,1697638739,47,"conv"
+?/*loc
+|2,1,1697633626,47,"*loc"
+?/print
+|2,1,1697631297,47,"print"
+?/inverse_c
+|2,1,1697631225,47,"inverse_c"
+?/-10
+|2,1,1697630983,47,"-10"
+?/probs
+|2,1,1697630943,47,"probs"
+?/exit
+|2,1,1697630566,47,"exit"
+?/normalized
+|2,1,1697630370,47,"normalized"
+?/energy
+|2,1,1697630267,47,"energy"
+?/updated
+|2,1,1697630121,47,"updated"
+?/intensity
+|2,1,1697630072,47,"intensity"
+?/original
+|2,1,1697629585,47,"original"
+?/shape
+|2,1,1697629378,47,"shape"
+?/256
+|2,1,1697629169,47,"256"
+?/ori_pa
+|2,1,1697628843,47,"ori_pa"
+?/swe
+|2,1,1697628828,47,"swe"
+?/pos_h
+|2,1,1697628112,47,"pos_h"
+?/red_chan
+|2,1,1697627992,47,"red_chan"
+?/red_
+|2,1,1697627967,47,"red_"
+?/32
+|2,1,1697627909,47,"32"
+?/_view
+|2,1,1697288895,47,"_view"
+?/main
+|2,1,1697284111,47,"main"
+?/F_list
+|2,1,1696843570,47,"F_list"
+?/cv2
+|2,1,1696843457,47,"cv2"
+?/img
+|2,1,1696843450,47,"img"
+?/cv2.
+|2,1,1696845124,47,"cv2."
+?/img_name
+|2,1,1696845026,47,"img_name"
+?/julesz
+|2,1,1696845003,47,"julesz"
+?/histogram
+|2,1,1696844097,47,"histogram"
+?/img_H
+|2,1,1696842308,47,"img_H"
+?/results
+|2,1,1696767342,47,"results"
+?/break
+|2,1,1696750570,47,"break"
+?/0.001
+|2,1,1696750464,47,"0.001"
+
+# 表达式 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+@y
+|2,3,1669291796,,"y"
+@jkjk
+|2,3,1668482621,,"jkjk"
+@align
+|2,3,1662820285,,"align"
+
+# 输入行 历史记录 (从新到旧):
+
+# 寄存器:
+"0	LINE	0
+	    au! BufRead,BufNewFile *.cpp setfiletype cpp
+|3,0,0,1,1,0,1697810717,"    au! BufRead,BufNewFile *.cpp setfiletype cpp"
+""1	LINE	0
+	
+|3,1,1,1,1,0,1697811080,""
+"2	LINE	0
+	
+|3,0,2,1,1,0,1697811078,""
+"3	LINE	0
+	
+|3,0,3,1,1,0,1697811078,""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1697811077,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1697810736,""
+"6	LINE	0
+	
+|3,0,6,1,1,0,1697810721,""
+"7	LINE	0
+	
+|3,0,7,1,1,0,1697810598,""
+"8	CHAR	0
+	" 设置<leader>cp为编译单个文件
+	nnoremap <silent> <leader>cp :AsyncRun gcc -Wall -O2 "$(VIM_FILEPATH)" -o "$(VIM_FILEDIR)/$(VIM_FILENOEXT)" <cr>
+	
+	" 设置<leader>rn为运行文件
+	nnoremap <silent> <leader>rn :AsyncRun -raw -cwd=$(VIM_FILEDIR) "$(VIM_FILEDIR)/$(VIM_FILENOEXT)" <cr>
+	
+	let g:asyncrun_rootmarks = ['.svn', '.git', '.root', '_darcs', 'build.xml'] 
+	
+	" 设置来编译整个项目
+	nnoremap <silent> <leader>cpa :AsyncRun -cwd=<root> make <cr>
+	" 设置来运行整个项目 
+	nnoremap <silent> <leader>rna :AsyncRun -cwd=<root> -raw make run <cr>
+	
+	
+	
+	
+	
+	
+|3,0,8,0,18,0,1697810583,"\" 设置<leader>cp为编译单个文件","nnoremap <silent> <leader>cp :AsyncRun gcc -Wall -O2 \"$(VIM_FILEPATH)\" -o \"$(VIM_FILEDIR)/$(VIM_FILENOEXT)\" <cr>","","\" 设置<leader>rn为运行文件","nnoremap <silent> <leader>rn :AsyncRun -raw -cwd=$(VIM_FILEDIR) \"$(VIM_FILEDIR)/$(VIM_FILENOEXT)\" <cr>","","let g:asyncrun_rootmarks = ['.svn', '.git', '.root', '_darcs', 'build.xml'] ","","\" 设置来编译整个项目",>63
+|<"nnoremap <silent> <leader>cpa :AsyncRun -cwd=<root> make <cr>","\" 设置来运行整个项目 ","nnoremap <silent> <leader>rna :AsyncRun -cwd=<root> -raw make run <cr>","","","","","",""
+"9	LINE	0
+	x = 
+|3,0,9,1,1,0,1697810519,"x = "
+"f	CHAR	0
+	t
+|3,0,15,0,1,0,1669104988,"t"
+"j	CHAR	0
+	jkkkjjj：
+|3,0,19,0,1,0,1697806587,"jkkkjjj："
+"m	CHAR	0
+	e：
+|3,0,22,0,1,0,1687741803,"e："
+"u	CHAR	0
+	it�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb:quit
+|3,0,30,0,1,0,1661252203,"it�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb:quit"
+"-	CHAR	0
+	 
+|3,0,36,0,1,0,1697810937," "
+
+# 文件标记:
+'0  4  0  ~/NERD_tree_1
+|4,48,4,0,1697811109,"~/NERD_tree_1"
+'1  3  0  ~/Desktop/cpp/NERD_tree_1
+|4,49,3,0,1697811051,"~/Desktop/cpp/NERD_tree_1"
+'2  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,50,4,0,1697811051,"~/Desktop/cpp/NERD_tree_1"
+'3  2  0  ~/Desktop/cpp/NERD_tree_1
+|4,51,2,0,1697811023,"~/Desktop/cpp/NERD_tree_1"
+'4  3  0  ~/Desktop/cpp/NERD_tree_1
+|4,52,3,0,1697811023,"~/Desktop/cpp/NERD_tree_1"
+'5  3  0  ~/Desktop/cpp/NERD_tree_1
+|4,53,3,0,1697811023,"~/Desktop/cpp/NERD_tree_1"
+'6  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,54,4,0,1697811023,"~/Desktop/cpp/NERD_tree_1"
+'7  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,55,1,0,1697810985,"~/Desktop/cpp/NERD_tree_1"
+'8  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,56,1,0,1697810985,"~/Desktop/cpp/NERD_tree_1"
+'9  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,57,1,0,1697810985,"~/Desktop/cpp/NERD_tree_1"
+
+# 跳转列表 (从新到旧):
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1697811109,"~/NERD_tree_1"
+-'  24  2  ~/NERD_tree_1
+|4,39,24,2,1697811106,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1697811106,"~/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697811083,"~/Desktop/cpp/NERD_tree_1"
+-'  7  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,7,2,1697811055,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697811055,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697811051,"~/Desktop/cpp/NERD_tree_1"
+-'  7  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,7,2,1697811033,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697811033,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697811023,"~/Desktop/cpp/NERD_tree_1"
+-'  7  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,7,2,1697811022,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697811022,"~/Desktop/cpp/NERD_tree_1"
+-'  8  0  ~/Desktop/cpp/try.cpp
+|4,39,8,0,1697810994,"~/Desktop/cpp/try.cpp"
+-'  1  0  ~/Desktop/cpp/try.cpp
+|4,39,1,0,1697810987,"~/Desktop/cpp/try.cpp"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810985,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810985,"~/Desktop/cpp/NERD_tree_1"
+-'  6  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,6,2,1697810984,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810984,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/.vim/ftplugin/NERD_tree_1
+|4,39,4,0,1697810973,"~/.vim/ftplugin/NERD_tree_1"
+-'  4  0  ~/.vim/ftplugin/NERD_tree_1
+|4,39,4,0,1697810973,"~/.vim/ftplugin/NERD_tree_1"
+-'  7  2  ~/.vim/ftplugin/NERD_tree_1
+|4,39,7,2,1697810919,"~/.vim/ftplugin/NERD_tree_1"
+-'  1  0  ~/.vim/ftplugin/NERD_tree_1
+|4,39,1,0,1697810919,"~/.vim/ftplugin/NERD_tree_1"
+-'  7  2  ~/.vim/ftplugin/NERD_tree_1
+|4,39,7,2,1697810919,"~/.vim/ftplugin/NERD_tree_1"
+-'  1  0  ~/.vim/ftplugin/NERD_tree_1
+|4,39,1,0,1697810919,"~/.vim/ftplugin/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810911,"~/Desktop/cpp/NERD_tree_1"
+-'  7  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,7,2,1697810901,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810901,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810771,"~/Desktop/cpp/NERD_tree_1"
+-'  6  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,6,2,1697810769,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810769,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/.vim/NERD_tree_1
+|4,39,4,0,1697810743,"~/.vim/NERD_tree_1"
+-'  4  0  ~/.vim/NERD_tree_1
+|4,39,4,0,1697810743,"~/.vim/NERD_tree_1"
+-'  11  2  ~/.vim/NERD_tree_1
+|4,39,11,2,1697810705,"~/.vim/NERD_tree_1"
+-'  1  0  ~/.vim/NERD_tree_1
+|4,39,1,0,1697810705,"~/.vim/NERD_tree_1"
+-'  11  2  ~/.vim/NERD_tree_1
+|4,39,11,2,1697810705,"~/.vim/NERD_tree_1"
+-'  1  0  ~/.vim/NERD_tree_1
+|4,39,1,0,1697810705,"~/.vim/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810689,"~/Desktop/cpp/NERD_tree_1"
+-'  6  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,6,2,1697810680,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810680,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810679,"~/Desktop/cpp/NERD_tree_1"
+-'  6  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,6,2,1697810677,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810677,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810672,"~/Desktop/cpp/NERD_tree_1"
+-'  6  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,6,2,1697810669,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810669,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/.vim/ftplugin/NERD_tree_1
+|4,39,4,0,1697810656,"~/.vim/ftplugin/NERD_tree_1"
+-'  4  0  ~/.vim/ftplugin/NERD_tree_1
+|4,39,4,0,1697810656,"~/.vim/ftplugin/NERD_tree_1"
+-'  7  2  ~/.vim/ftplugin/NERD_tree_1
+|4,39,7,2,1697810564,"~/.vim/ftplugin/NERD_tree_1"
+-'  1  0  ~/.vim/ftplugin/NERD_tree_1
+|4,39,1,0,1697810564,"~/.vim/ftplugin/NERD_tree_1"
+-'  7  2  ~/.vim/ftplugin/NERD_tree_1
+|4,39,7,2,1697810564,"~/.vim/ftplugin/NERD_tree_1"
+-'  1  0  ~/.vim/ftplugin/NERD_tree_1
+|4,39,1,0,1697810564,"~/.vim/ftplugin/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810537,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810537,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810533,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810533,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810533,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810533,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810525,"~/Desktop/cpp/NERD_tree_1"
+-'  6  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,6,2,1697810523,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810523,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810508,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810508,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810494,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810494,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810494,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810494,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810490,"~/Desktop/cpp/NERD_tree_1"
+-'  6  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,6,2,1697810487,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810487,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/try.py
+|4,39,1,0,1697810484,"~/Desktop/cpp/try.py"
+-'  1  0  ~/Desktop/cpp/try.py
+|4,39,1,0,1697810484,"~/Desktop/cpp/try.py"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810447,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810447,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810447,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810447,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810439,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810439,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810439,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810439,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810439,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810439,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810439,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810439,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/try.py
+|4,39,1,0,1697810428,"~/Desktop/cpp/try.py"
+-'  1  0  ~/Desktop/cpp/try.py
+|4,39,1,0,1697810428,"~/Desktop/cpp/try.py"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810420,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810420,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,4,0,1697810420,"~/Desktop/cpp/NERD_tree_1"
+-'  6  2  ~/Desktop/cpp/NERD_tree_1
+|4,39,6,2,1697810419,"~/Desktop/cpp/NERD_tree_1"
+-'  1  0  ~/Desktop/cpp/NERD_tree_1
+|4,39,1,0,1697810419,"~/Desktop/cpp/NERD_tree_1"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810416,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810416,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810416,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810416,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810416,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810416,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810416,"~/Desktop/cpp/NERD_tree_2"
+-'  4  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,4,0,1697810416,"~/Desktop/cpp/NERD_tree_2"
+-'  6  2  ~/Desktop/cpp/NERD_tree_2
+|4,39,6,2,1697810390,"~/Desktop/cpp/NERD_tree_2"
+-'  1  0  ~/Desktop/cpp/NERD_tree_2
+|4,39,1,0,1697810390,"~/Desktop/cpp/NERD_tree_2"
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.vimrc
+	*	1697811108	0
+	"	37	0
+	^	56	2
+	.	69	0
+	+	131	30
+	+	143	0
+	+	131	0
+	+	98	0
+	+	94	31
+	+	95	0
+	+	133	0
+	+	133	15
+	+	135	23
+	+	134	42
+	+	136	35
+	+	137	22
+	+	138	0
+	+	139	48
+	+	140	18
+	+	141	15
+	+	139	16
+	+	141	36
+	+	142	0
+	+	141	106
+	+	141	27
+	+	141	0
+	+	133	8
+	+	141	30
+	+	141	96
+	+	141	76
+	+	141	0
+	+	141	54
+	+	141	0
+	+	141	27
+	+	141	28
+	+	141	26
+	+	141	1
+	+	141	63
+	+	141	26
+	+	141	28
+	+	141	0
+	+	141	1
+	+	141	0
+	+	132	20
+	+	131	0
+	+	133	0
+	+	133	3
+	+	133	0
+	+	133	8
+	+	133	0
+	+	132	0
+	+	63	0
+	+	63	8
+	+	86	0
+	+	63	2
+	+	63	9
+	+	63	0
+	+	65	0
+	+	65	12
+	+	65	11
+	+	65	8
+	+	86	0
+	+	65	10
+	+	65	12
+	+	65	10
+	+	65	11
+	+	65	9
+	+	86	0
+	+	65	9
+	+	85	0
+	+	66	11
+	+	67	7
+	+	83	0
+	+	83	10
+	+	101	0
+	+	75	3
+	+	77	3
+	+	79	3
+	+	127	0
+	+	72	3
+	+	73	3
+	+	72	0
+	+	83	0
+	+	84	0
+	+	132	0
+	+	80	3
+	+	81	3
+	+	68	0
+	+	72	0
+	+	68	49
+	+	142	0
+	+	69	0
+	+	69	48
+	+	72	0
+	+	69	32
+	+	70	0
+	+	71	0
+	+	70	29
+	+	71	29
+	+	70	0
+	+	69	0
+	+	56	1
+	+	72	0
+	+	69	0
+
+> ~/NERD_tree_1
+	*	1697811106	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/cpp/NERD_tree_1
+	*	1697811055	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/cpp/try.cpp
+	*	1697811051	0
+	"	6	0
+	^	3	11
+	.	3	8
+	+	8	0
+	+	1	18
+	+	2	2
+	+	8	11
+	+	8	0
+	+	3	9
+	+	4	1
+	+	5	12
+	+	3	8
+
+> ~/Desktop/cpp/try
+	*	1697811023	0
+	"	1	0
+
+> ~/Desktop/cpp/try.
+	*	1697810984	0
+	"	1	0
+
+> ~/.vim/ftplugin/cpp.vim
+	*	1697810972	0
+	"	5	41
+	.	2	41
+	+	1	0
+	+	2	41
+
+> ~/.vim/ftplugin/NERD_tree_1
+	*	1697810919	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/NERD_tree_1
+	*	1697810704	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/cpp/NERD_tree_2
+	*	1697810533	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/cpp/try.py
+	*	1697810521	0
+	"	2	1
+	.	2	0
+	+	1	17
+	+	2	0
+	+	1	20
+	+	2	9
+	+	1	76
+	+	2	0
+
+> ~/.vim/ftplugin/python.vim
+	*	1697810507	0
+	"	3	25
+	^	3	26
+	.	3	25
+	+	3	25
+
+> ~/.vim/ftplugin/python.tex
+	*	1697809870	0
+	"	3	32
+	^	3	33
+	.	3	32
+	+	1	0
+	+	2	21
+	+	4	0
+	+	3	32
+
+> /usr/local/Cellar/vim/9.0.0850/share/vim/vim90/doc/filetype.txt
+	*	1697809513	0
+	"	185	56
+
+> ~/Desktop/cpp/main
+	*	1697808630	0
+	"	1	0
+
+> ~/Desktop/cplusplus_learning/helloworld.cpp
+	*	1697808402	0
+	"	4	0
+	^	5	33
+	.	7	0
+	+	1	0
+	+	1	13
+	+	1	0
+	+	1	18
+	+	2	0
+	+	4	11
+	+	8	0
+	+	4	10
+	+	4	0
+	+	8	0
+	+	4	36
+	+	2	0
+	+	8	0
+	+	8	13
+	+	8	0
+	+	4	1
+	+	7	0
+	+	4	1
+	+	7	0
+	+	6	3
+	+	7	0
+	+	7	4
+	+	7	14
+	+	7	5
+	+	7	0
+	+	7	42
+	+	7	0
+	+	7	1
+	+	7	0
+	+	7	14
+	+	7	5
+	+	7	42
+	+	7	0
+	+	4	25
+	+	6	67383
+	+	6	0
+	+	3	0
+	+	1	0
+	+	3	27
+	+	15	0
+	+	5	32
+	+	1	0
+	+	7	0
+	j	1	0
+
+> ~/Desktop/cplusplus_learning/NERD_tree_1
+	*	1697808401	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/cplusplus_learning/try.cpp
+	*	1697808243	0
+	"	5	0
+	^	6	13
+	.	5	4
+	+	1	19
+	+	2	19
+	+	3	10
+	+	4	1
+	+	7	0
+	+	5	4
+
+> ~/Desktop/cplusplus_learning/try.
+	*	1697808160	0
+	"	1	0
+	^	1	0
+
+> ~/Desktop/cplusplus_learning/main.cpp
+	*	1697808127	0
+	"	12	0
+	^	2	20
+	.	9	29
+	+	1	18
+	+	3	23
+	+	4	0
+	+	3	22
+	+	3	23
+	+	4	0
+	+	5	10
+	+	6	1
+	+	10	0
+	+	7	14
+	+	8	14
+	+	10	0
+	+	8	13
+	+	12	0
+	+	10	0
+	+	9	39
+	+	3	1
+	+	2	19
+	+	9	29
+
+> ~/.vimsh
+	*	1697806875	0
+	"	1	0
+
+> ~/Desktop/cplusplus_learning/helloworld.
+	*	1697797587	0
+	"	1	0
+
+> ~/Desktop/cplusplus_learning/helloworld.h
+	*	1697797401	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	1	11
+	+	5	0
+	+	3	12
+	+	4	0
+	+	2	25
+
+> ~/Desktop/cplusplus_learning/mian
+	*	1697797337	0
+	"	1	0
+
+> /usr/local/Cellar/vim/9.0.0850/share/vim/vim90/doc/undo.txt
+	*	1697796722	0
+	"	289	0
+
+> ~/Desktop/cplusplus_learning/try.py
+	*	1697796383	0
+	"	3	0
+	^	2	4
+	.	2	0
+	+	1	22
+	+	4	10
+	+	1	45
+	+	4	10
+	+	4	20
+	+	4	30
+	+	4	21
+	+	4	10
+	+	4	21
+	+	4	10
+	+	4	0
+	+	4	10
+	+	4	0
+	+	4	10
+	+	4	0
+	+	4	14
+	+	4	27
+	+	4	0
+	+	3	0
+	+	1	22
+	+	3	0
+	+	2	0
+
+> ~/.vim/coc-settings.json
+	*	1697793574	0
+	"	7	0
+	.	8	0
+	+	7	0
+	+	8	0
+	+	1	0
+	+	8	1
+	+	8	0
+
+> ~/Desktop/plan.pages
+	*	1697793286	0
+	"	5	0
+
+> ~/Desktop/NERD_tree_1
+	*	1697793285	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/search/autograder.py
+	*	1697793029	0
+	"	342	0
+	^	341	0
+
+> ~/Desktop/search/NERD_tree_1
+	*	1697793025	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/gibbs_sampler/main.py
+	*	1697690103	0
+	"	213	14
+	^	213	15
+	.	213	14
+	+	213	21
+	+	216	21
+	+	214	15
+	+	216	66
+	+	217	36
+	+	218	29
+	+	217	16
+	+	218	46
+	+	260	43
+	+	9	8
+	+	257	16
+	+	260	20
+	+	257	20
+	+	260	28
+	+	260	0
+	+	258	41
+	+	259	15
+	+	260	0
+	+	213	4
+	+	215	0
+	+	257	44
+	+	260	47
+	+	252	0
+	+	213	15
+	+	214	16
+	+	213	14
+	+	257	43
+	+	241	13
+	+	213	16
+	+	214	14
+	+	213	14
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/gibbs_sampler/NERD_tree_1
+	*	1697690096	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_stu/pde/main.py
+	*	1697690083	0
+	"	36	33
+	^	33	15
+	.	33	14
+	+	29	0
+	+	26	9
+	+	27	0
+	+	25	0
+	+	17	41
+	+	51	15
+	+	61	0
+	+	55	0
+	+	56	21
+	+	57	0
+	+	61	0
+	+	58	13
+	+	61	0
+	+	60	0
+	+	66	42
+	+	61	91
+	+	46	0
+	+	61	0
+	+	66	0
+	+	52	0
+	+	40	0
+	+	32	3
+	+	61	26
+	+	61	72
+	+	63	45
+	+	61	23
+	+	63	0
+	+	62	0
+	+	64	38
+	+	66	0
+	+	65	12
+	+	66	0
+	+	65	40
+	+	10	8
+	+	59	0
+	+	34	14
+	+	33	14
+
+> ~/Desktop/CV1/project/proj2/proj2_stu/pde/NERD_tree_1
+	*	1697690082	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_stu/pde/mian
+	*	1697690078	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/gibbs_sampler/mian
+	*	1697690002	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_stu/gibbs_sampler/main.py
+	*	1697689634	0
+	"	130	88
+	^	134	44
+	.	134	43
+	+	30	0
+	+	48	0
+	+	51	0
+	+	53	0
+	+	55	0
+	+	54	12
+	+	61	0
+	+	57	0
+	+	58	25
+	+	68	0
+	+	64	42
+	+	74	0
+	+	72	4
+	+	72	0
+	+	71	14
+	+	72	0
+	+	81	97
+	+	83	51
+	+	89	0
+	+	86	25
+	+	87	10
+	+	88	0
+	+	85	0
+	+	108	0
+	+	109	4
+	+	110	21
+	+	107	0
+	+	108	0
+	+	114	22
+	+	113	0
+	+	139	0
+	+	131	21
+	+	131	0
+	+	139	0
+	+	131	13
+	+	139	0
+	+	135	0
+	+	118	0
+	+	139	0
+	+	70	41
+	+	128	0
+	+	131	0
+	+	128	0
+	+	132	0
+	+	135	0
+	+	139	0
+	+	9	8
+	+	100	0
+	+	92	0
+	+	133	0
+	+	134	0
+	+	135	0
+	+	134	43
+
+> ~/Desktop/CV1/project/proj2/proj2_stu/gibbs_sampler/NERD_tree_1
+	*	1697689622	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/pde/main.py
+	*	1697685599	0
+	"	51	15
+	^	51	16
+	.	51	15
+	+	50	0
+	+	58	0
+	+	87	0
+	+	83	12
+	+	84	11
+	+	85	38
+	+	87	0
+	+	86	12
+	+	87	0
+	+	86	40
+	+	10	8
+	+	51	16
+	+	87	0
+	+	73	0
+	+	51	14
+	+	52	16
+	+	51	15
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/pde/NERD_tree_1
+	*	1697685589	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_stu/pde/NERD_tree_2
+	*	1697684219	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_stu/gibbs_sampler/NERD_tree_2
+	*	1697684144	0
+	"	8	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/pde/NERD_tree_2
+	*	1697684047	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/gibbs_sampler/NERD_tree_2
+	*	1697683135	0
+	"	9	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/image/impose.py
+	*	1697681693	0
+	"	12	30
+	^	12	30
+	.	12	30
+	+	4	25
+	+	5	27
+	+	12	28
+	+	5	22
+	+	12	23
+	+	5	23
+	+	12	24
+	+	4	23
+	+	12	28
+	+	5	22
+	+	12	23
+	+	5	22
+	+	12	23
+	+	4	25
+	+	12	29
+	+	5	20
+	+	12	25
+	+	4	23
+	+	12	29
+	+	4	25
+	+	12	31
+	+	5	19
+	+	12	24
+	+	4	23
+	+	12	29
+	+	5	18
+	+	12	23
+	+	4	25
+	+	12	30
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/image/NERD_tree_1
+	*	1697681684	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/image/impose
+	*	1697681679	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/image/change.py
+	*	1697681447	0
+	"	26	21
+	^	26	22
+	.	26	21
+	+	4	26
+	+	27	22
+	+	4	23
+	+	27	20
+	+	4	26
+	+	27	23
+	+	14	30
+	+	16	0
+	+	14	37
+	+	4	29
+	+	14	34
+	+	4	29
+	+	9	0
+	+	15	0
+	+	14	37
+	+	4	23
+	+	26	21
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/image/generate_white.py
+	*	1697679391	0
+	"	5	25
+	^	5	26
+	.	5	3
+	+	1	10
+	+	2	17
+	+	3	0
+	+	4	26
+	+	5	3
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/image/mask_small
+	*	1697678377	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/image/iim
+	*	1697677216	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/pde/main.py
+	*	1697635121	0
+	"	79	12
+	.	79	0
+	+	1	0
+	+	2	58
+	+	14	6
+	+	21	0
+	+	12	0
+	+	46	3
+	+	46	7
+	+	46	3
+	+	14	0
+	+	46	0
+	+	46	4
+	+	24	24
+	+	27	22
+	+	34	42
+	+	46	0
+	+	27	7
+	+	28	37
+	+	32	0
+	+	34	7
+	+	35	5
+	+	30	21
+	+	46	0
+	+	37	6
+	+	46	0
+	+	46	38
+	+	46	0
+	+	40	0
+	+	21	0
+	+	14	16
+	+	13	0
+	+	14	22
+	+	20	29
+	+	40	26
+	+	48	0
+	+	58	0
+	+	64	11
+	+	74	68
+	+	75	19
+	+	89	38
+	+	27	18
+	+	25	37
+	+	27	23
+	+	28	49
+	+	34	11
+	+	35	0
+	+	34	23
+	+	35	49
+	+	40	20
+	+	78	11
+	+	77	21
+	+	89	18
+	+	40	23
+	+	28	58
+	+	30	27
+	+	35	59
+	+	37	27
+	+	26	58
+	+	29	60
+	+	30	39
+	+	33	60
+	+	36	59
+	+	37	36
+	+	39	0
+	+	77	16
+	+	89	0
+	+	67	15
+	+	75	19
+	+	26	0
+	+	29	0
+	+	30	0
+	+	31	29
+	+	33	0
+	+	36	0
+	+	37	0
+	+	38	29
+	+	41	33
+	+	42	32
+	+	43	31
+	+	44	30
+	+	89	0
+	+	67	16
+	+	68	25
+	+	89	0
+	+	80	43
+	+	82	34
+	+	81	29
+	+	82	0
+	+	83	18
+	+	85	16
+	+	84	23
+	+	84	0
+	+	84	11
+	+	84	42
+	+	88	0
+	+	86	13
+	+	87	31
+	+	79	0
+
+> ~/Desktop/CV1/project/proj2/pde/NERD_tree_1
+	*	1697635111	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/main.py
+	*	1697634903	0
+	"	253	0
+	^	241	15
+	.	241	14
+	+	151	0
+	+	150	55
+	+	158	15
+	+	158	35
+	+	158	10
+	+	159	0
+	+	158	10
+	+	158	0
+	+	153	4
+	+	153	23
+	+	93	4
+	+	94	4
+	+	96	4
+	+	95	4
+	+	103	4
+	+	104	4
+	+	105	4
+	+	106	4
+	+	107	4
+	+	108	5
+	+	109	4
+	+	110	4
+	+	122	4
+	+	123	4
+	+	144	4
+	+	145	4
+	+	153	4
+	+	153	8
+	+	158	4
+	+	93	4
+	+	94	4
+	+	95	4
+	+	96	4
+	+	103	4
+	+	104	4
+	+	105	4
+	+	106	4
+	+	107	4
+	+	108	4
+	+	109	4
+	+	110	4
+	+	108	4
+	+	144	4
+	+	145	4
+	+	153	8
+	+	153	4
+	+	158	4
+	+	154	0
+	+	153	4
+	+	157	0
+	+	155	0
+	+	158	0
+	+	161	18
+	+	161	13
+	+	161	4
+	+	162	0
+	+	161	4
+	+	163	3
+	+	180	23
+	+	181	14
+	+	193	24
+	+	194	0
+	+	193	24
+	+	195	0
+	+	194	0
+	+	169	23
+	+	170	20
+	+	171	25
+	+	93	4
+	+	94	4
+	+	95	4
+	+	96	4
+	+	103	4
+	+	104	4
+	+	105	4
+	+	106	4
+	+	107	4
+	+	108	4
+	+	109	4
+	+	110	4
+	+	144	4
+	+	145	4
+	+	155	4
+	+	156	4
+	+	163	4
+	+	164	4
+	+	169	8
+	+	170	8
+	+	180	4
+	+	181	4
+	+	224	4
+	+	248	18
+	+	254	21
+	+	254	15
+	+	254	19
+	+	254	22
+	+	254	0
+	+	251	22
+	+	252	12
+	+	241	14
+
+> ~/Desktop/CV1/project/proj2/pde/NERD_tree_2
+	*	1697634899	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/pde/mina
+	*	1697633743	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/pde/mian
+	*	1697633741	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/NERD_tree_1
+	*	1697631663	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/mina
+	*	1697631661	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/main
+	*	1697628913	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/mian
+	*	1697628052	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj3/proj2_sol/part1_julesz/julesz.py
+	*	1697627782	0
+	"	27	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/NERD_tree_2
+	*	1697627776	0
+	"	20	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/NERD_tree_3
+	*	1697627642	0
+	"	23	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj3/proj2_sol/part1_julesz/gibbs2.py
+	*	1697626544	0
+	"	7	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/NERD_tree_7
+	*	1697626540	0
+	"	19	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/NERD_tree_6
+	*	1697626505	0
+	"	19	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj3/proj2_sol/part1_julesz/gibbs.pyx
+	*	1697624841	0
+	"	168	4
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/NERD_tree_5
+	*	1697624812	0
+	"	21	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/gibbs_sampler/NERD_tree_4
+	*	1697623617	0
+	"	19	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/image/impose.py
+	*	1697623053	0
+	"	12	26
+	^	12	27
+	.	12	26
+	+	1	10
+	+	2	12
+	+	4	32
+	+	7	27
+	+	8	18
+	+	7	30
+	+	8	26
+	+	9	43
+	+	8	0
+	+	9	55
+	+	9	39
+	+	9	37
+	+	9	20
+	+	9	24
+	+	9	40
+	+	9	8
+	+	9	20
+	+	9	31
+	+	7	13
+	+	7	25
+	+	8	29
+	+	9	76
+	+	3	20
+	+	7	31
+	+	9	8
+	+	4	30
+	+	5	30
+	+	9	74
+	+	9	41
+	+	9	8
+	+	9	43
+	+	9	58
+	+	9	93
+	+	9	48
+	+	9	32
+	+	9	24
+	+	9	8
+	+	9	60
+	+	9	8
+	+	9	28
+	+	9	8
+	+	9	27
+	+	9	8
+	+	9	60
+	+	9	43
+	+	9	8
+	+	9	31
+	+	9	16
+	+	5	0
+	+	4	32
+	+	9	8
+	+	9	23
+	+	9	24
+	+	9	20
+	+	9	33
+	+	9	39
+	+	9	8
+	+	9	27
+	+	9	21
+	+	9	20
+	+	9	42
+	+	9	41
+	+	9	35
+	+	4	26
+	+	9	31
+	+	5	31
+	+	6	0
+	+	9	35
+	+	16	0
+	+	15	11
+	+	9	26
+	+	14	0
+	+	9	47
+	+	10	12
+	+	13	0
+	+	11	16
+	+	9	0
+	+	10	19
+	+	11	20
+	+	12	28
+	+	4	26
+	+	12	26
+	+	4	26
+	+	12	26
+
+> ~/Desktop/CV1/project/proj2/image/NERD_tree_1
+	*	1697623044	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/image/impose
+	*	1697623032	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/image/change.py
+	*	1697622942	0
+	"	28	23
+	^	28	24
+	.	28	23
+	+	1	0
+	+	8	0
+	+	30	0
+	+	28	0
+	+	13	21
+	+	11	35
+	+	13	0
+	+	11	59
+	+	13	35
+	+	27	0
+	+	12	15
+	+	14	31
+	+	17	16
+	+	19	21
+	+	20	18
+	+	23	13
+	+	24	12
+	+	28	34
+	+	4	26
+	+	28	23
+	+	4	29
+	+	14	37
+	+	4	26
+	+	28	23
+	+	7	7
+	+	14	41
+	+	4	26
+	+	28	23
+	+	14	30
+	+	15	60
+	+	15	33
+	+	17	0
+	+	16	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	5	0
+	+	6	18
+	+	9	0
+	+	6	0
+	+	4	26
+	+	28	23
+
+> ~/Desktop/CV1/project/proj2/image/distorted_24pt.png
+	*	1697613490	0
+	"	5	0
+
+> ~/Desktop/CV1/project/proj2/proj2_student/part1_julesz/filters.py
+	*	1697503276	0
+	"	8	0
+	^	14	30
+	.	14	13
+	+	25	0
+	+	22	0
+	+	23	9
+	+	24	0
+	+	60	0
+	+	16	17
+	+	16	0
+	+	15	0
+	+	14	13
+
+> ~/Desktop/CV1/project/proj2/proj2_student/part1_julesz/NERD_tree_1
+	*	1697503275	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_student/part1_julesz/gibbs.py
+	*	1697502907	0
+	"	43	70
+	^	85	26
+	.	43	70
+	+	5	0
+	+	6	0
+	+	10	0
+	+	5	0
+	+	6	0
+	+	9	0
+	+	10	26
+	+	11	26
+	+	12	37
+	+	13	28
+	+	30	0
+	+	48	37
+	+	49	37
+	+	50	41
+	+	51	41
+	+	70	0
+	+	71	0
+	+	77	0
+	+	81	0
+	+	78	4
+	+	79	9
+	+	77	4
+	+	77	145
+	+	110	0
+	+	109	0
+	+	109	4
+	+	109	22
+	+	109	5
+	+	109	0
+	+	106	8
+	+	109	0
+	+	105	0
+	+	99	23
+	+	77	26
+	+	109	0
+	+	107	4
+	+	108	0
+	+	77	5
+	+	77	0
+	+	17	61
+	+	18	81
+	+	19	58
+	+	20	79
+	+	23	143
+	+	85	25
+	+	43	70
+
+> ~/Desktop/CV1/project/proj2/proj2_student/part1_julesz/julesz.py
+	*	1697502814	0
+	"	131	4
+	^	55	50
+	.	55	45
+	+	3	0
+	+	7	0
+	+	27	0
+	+	25	9
+	+	26	0
+	+	24	0
+	+	43	0
+	+	40	4
+	+	42	0
+	+	41	5
+	+	58	0
+	+	60	22
+	+	59	18
+	+	50	4
+	+	51	6
+	+	64	22
+	+	69	25
+	+	124	33
+	+	127	29
+	+	68	29
+	+	63	6
+	+	71	28
+	+	77	0
+	+	74	14
+	+	84	0
+	+	81	0
+	+	82	0
+	+	83	21
+	+	102	0
+	+	99	0
+	+	116	0
+	+	118	0
+	+	117	0
+	+	123	0
+	+	124	0
+	+	128	0
+	+	120	8
+	+	122	14
+	+	17	38
+	+	129	19
+	+	45	9
+	+	132	9
+	+	45	23
+	+	60	28
+	+	129	39
+	+	45	50
+	+	64	0
+	+	46	8
+	+	48	6
+	+	47	18
+	+	121	23
+	+	83	45
+	+	87	63
+	+	100	27
+	+	87	27
+	+	102	0
+	+	88	25
+	+	101	0
+	+	97	4
+	+	63	4
+	+	63	0
+	+	61	0
+	+	57	5
+	+	57	0
+	+	54	5
+	+	54	0
+	+	55	25
+	+	56	19
+	+	55	45
+	j	4	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/test/test_problem1.py
+	*	1696942360	0
+	"	29	0
+	^	76	20
+	.	76	19
+	+	22	18
+	+	20	10
+	+	21	9
+	+	13	0
+	+	37	8
+	+	38	28
+	+	40	25
+	+	43	0
+	+	43	8
+	+	43	0
+	+	40	29
+	+	41	37
+	+	43	0
+	+	42	23
+	+	43	0
+	+	42	126
+	+	33	22
+	+	140	0
+	+	35	47
+	+	45	25
+	+	47	37
+	+	139	0
+	+	48	0
+	+	39	0
+	+	49	0
+	+	52	0
+	+	51	0
+	+	54	0
+	+	58	0
+	+	57	0
+	+	68	40
+	+	136	12
+	+	135	0
+	+	69	76
+	+	134	0
+	+	133	8
+	+	133	0
+	+	70	69
+	+	132	0
+	+	72	25
+	+	73	12
+	+	75	10
+	+	75	0
+	+	74	8
+	+	75	0
+	+	91	27
+	+	26	0
+	+	77	0
+	+	91	52
+	+	129	8
+	+	131	4
+	+	95	8
+	+	96	22
+	+	77	16
+	+	78	16
+	+	96	42
+	+	130	0
+	+	128	0
+	+	96	16
+	+	97	7
+	+	96	8
+	+	98	74
+	+	103	33
+	+	71	0
+	+	89	0
+	+	90	35
+	+	96	39
+	+	111	8
+	+	112	7
+	+	111	0
+	+	109	0
+	+	126	0
+	+	118	0
+	+	111	0
+	+	121	7
+	+	119	0
+	+	120	24
+	+	121	21
+	+	122	8
+	+	123	8
+	+	124	23
+	+	77	17
+	+	78	17
+	+	97	0
+	+	84	7
+	+	83	0
+	+	111	0
+	+	110	11
+	+	111	0
+	+	119	0
+	+	111	0
+	+	92	8
+	+	93	27
+	+	94	0
+	+	76	20
+	+	77	23
+	+	78	23
+	+	91	32
+	+	124	49
+	+	76	19
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/test/NERD_tree_1
+	*	1696942358	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/test/test_problem.py
+	*	1696942225	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/test/test_problem.p
+	*	1696942221	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/test/test_problem
+	*	1696942217	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/proj2_sol/part1_julesz/julesz.py
+	*	1696941995	0
+	"	130	4
+	.	89	0
+	+	196	38
+	+	79	51
+	+	89	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/test/NERD_tree_2
+	*	1696941967	0
+	"	15	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/run_autograder
+	*	1696843442	0
+	"	8	0
+	^	6	90
+	.	6	89
+	+	5	87
+	+	7	67
+	+	8	0
+	+	7	0
+	+	6	0
+	+	6	89
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/part1_julesz/julesz.py
+	*	1696843392	0
+	"	43	0
+	^	79	25
+	.	79	24
+	+	200	9
+	+	79	9
+	+	197	17
+	+	79	35
+	+	87	28
+	+	79	24
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/run_tests.py
+	*	1696843097	0
+	"	2	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/part1_julesz/NERD_tree_1
+	*	1696842723	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/NERD_tree_1
+	*	1696842607	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/run_
+	*	1696842576	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_autograder/setup.sh
+	*	1696842515	0
+	"	13	16
+	^	14	90
+	.	14	89
+	+	14	89
+
+> ~/Desktop/CV1/project/proj1/NERD_tree_1
+	*	1696842416	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj1/NERD_tree_2
+	*	1696842415	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/part1_julesz/julesz.p
+	*	1696842301	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/proj2_sol/part1_julesz/julesz
+	*	1696842295	0
+	"	1	0
+
+> ~/Desktop/CV1/project/proj2/part2_frame_v2/gibbs.pyx
+	*	1696750570	0
+	"	59	12
+	^	58	15
+	.	58	38
+	+	198	23
+	+	223	4
+	+	224	36
+	+	224	0
+	+	49	36
+	+	49	37
+	+	49	40
+	+	49	20
+	+	49	46
+	+	49	8
+	+	223	22
+	+	223	0
+	+	198	57
+	+	49	8
+	+	49	0
+	+	55	7
+	+	49	0
+	+	58	38
+
+> ~/Desktop/CV1/project/proj2/part2_frame_v2/NERD_tree_1
+	*	1696750563	0
+	"	4	0
+	.	1	0
+	+	1	0

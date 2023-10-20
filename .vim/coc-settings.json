@@ -1,0 +1,7 @@
+{
+ "inlayHint.enable": false,
+ "coc.preferences.jumpCommand": "vsplit",
+ "python.analysis.diagnosticMode": false,
+
+
+}
