@@ -1,7 +1,9 @@
 {
  "inlayHint.enable": false,
  "coc.preferences.jumpCommand": "vsplit",
- "python.analysis.diagnosticMode": false,
-
-
+ "diagnostic.refreshOnInsertMode": true,
+ "pyright.enable": true,
+ "python.analysis.diagnosticSeverityOverrides":{
+     "reportPrivateImportUsage": "none",
+ },
 }

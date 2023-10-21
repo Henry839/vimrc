@@ -2,6 +2,8 @@
 echo ">^.^<" 
 let mapleader = ","
 
+nnoremap <leader> <C-w>
+
 set nocompatible
 
 imap jj <ESC>
@@ -13,6 +15,7 @@ filetype indent on
 set shortmess+=I
 
 set number
+set hlsearch
 
 set norelativenumber
 "set tw=0
@@ -21,6 +24,7 @@ set laststatus=2
 set backspace=indent,eol,start
 
 set hidden
+set cmdheight=1
 
 set ignorecase
 set smartcase
@@ -53,13 +57,15 @@ nnoremap <leader>ev :vsplit $MYVIMRC<cr>
 " source .vimrc fast
 nnoremap <leader>sv :source $MYVIMRC<cr>
 " open terminal and move it to the bottom
-" nnoremap <leader>tt :terminal<cr><C-w>r<C-w>N10<C-w>-a
+nnoremap <leader>tt :terminal<cr><C-w>r<C-w>N10<C-w>-a
 " use control-c to copy
 vnoremap <C-C> "+y
 " move the cursor to previous line
 nnoremap <leader>b <C-o>
 " move the cursor to next line
 nnoremap <leader>w <C-i>
+" quit all
+nnoremap <leader>q :qa<cr>
 
 
 " autocmd
@@ -69,8 +75,15 @@ augroup spam
     au! BufRead,BufNewFile *.cpp setfiletype cpp
     au! BufRead,BufNewFile *.c setfiletype cpp
     au! BufRead,BufNewFile *.h setfiletype cpp
+
     " Highlight the symbol and its references when holding the cursor.
     autocmd CursorHold * silent call CocActionAsync('highlight')
+    " Setup formatexpr specified filetype(s).
+    autocmd FileType typescript,json setl formatexpr=CocAction('formatSelected')
+    " Update signature help on jump placeholder.
+    autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
+
+
 
     " nerdtree setup
 " Start NERDTree and put the cursor back in the other window.
@@ -86,12 +99,17 @@ call plug#begin()
 Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline-themes'
+
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'github/copilot.vim'
+
 Plug 'iamcco/mathjax-support-for-mkdp'
 Plug 'iamcco/markdown-preview.vim'
+
 Plug 'jiangmiao/auto-pairs'
+
 Plug 'skywind3000/asyncrun.vim'
+Plug 'skywind3000/asynctasks.vim'
 call plug#end()
 " Airline theme
 let g:airline_theme='luna'
@@ -126,7 +144,6 @@ endfunction
 set updatetime=300
 set signcolumn=yes
 set pumheight=10
-let b:coc_diagnostic_disable=1
 
 
 " for cpp
@@ -139,6 +156,8 @@ let g:asyncrun_bell = 1
 " 设置<leader>co为打开/关闭Quickfix窗口
 nnoremap <leader>co :call asyncrun#quickfix_toggle(6)<cr>
 
-
-
-
+" asyntasks setup
+let g:asynctasks_rtp_config = "asynctasks.ini"
+let g:asynctasks_term_pos = 'bottom'
+let g:asynctasks_term_rows = 6    " 设置纵向切割时，高度为 10
+let g:asynctasks_term_cols = 80    " 设置横向切割时，宽度为 80
